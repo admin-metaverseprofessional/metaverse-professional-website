@@ -53,3 +53,20 @@ body {
 main {
   flex: 1;
 }
+
+#contact {
+  padding: 1.5rem;
+}
+
+#contact h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.25rem;
+}
+
+#contact p {
+  margin: 0.25rem 0;
+}
+
+#contact a {
+  color: inherit;
+}
