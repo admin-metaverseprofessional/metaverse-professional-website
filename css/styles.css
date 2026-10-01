@@ -54,6 +54,20 @@ main {
   flex: 1;
 }
 
+#home {
+  padding: 1.5rem;
+}
+
+#home h1 {
+  margin: 0 0 0.75rem;
+  font-size: 1.25rem;
+}
+
+#home p {
+  margin: 0.25rem 0;
+  max-width: 40rem;
+}
+
 #contact {
   padding: 1.5rem;
 }
