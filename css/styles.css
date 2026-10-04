@@ -68,6 +68,20 @@ main {
   max-width: 40rem;
 }
 
+.home-services {
+  margin-top: 2rem;
+}
+
+.home-services h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.125rem;
+}
+
+.home-services h3 {
+  margin: 1rem 0 0.25rem;
+  font-size: 1rem;
+}
+
 #contact {
   padding: 1.5rem;
 }
